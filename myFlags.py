@@ -1,7 +1,7 @@
 from absl import flags
 
 # common
-flags.DEFINE_string("data_path", "../data/halo/", "path to the dataset")
+flags.DEFINE_string("data_path", "./HSSD/", "path to the dataset")
 
 # model
 flags.DEFINE_integer("mlp_nodes", 512, "#nodes in MLPs")
