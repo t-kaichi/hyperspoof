@@ -1,0 +1,5 @@
+albumentations >= 1.0.2
+segmentation-models >= 1.0.1
+
+### for test ###
+sklearn

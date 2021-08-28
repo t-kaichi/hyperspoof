@@ -31,7 +31,7 @@ def main(argv):
     experiment_title += '-seg' if isSeg else '-pix_class'
     experiment_title += '-%d' % time.time()
     logdir = os.path.join(FLAGS.log_root, experiment_title)
-    os.mkdir(logdir)
+    os.makedirs(logdir)
     print("logdir: ", logdir)
 
     # augmentation
