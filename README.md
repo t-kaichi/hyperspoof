@@ -6,7 +6,7 @@ The hyperspectral spoofing dataset (HSSD) is available here. <- coming soon
 - Python3
 - TensorFlow >= 2.4  
 
-This code has been developed with Docker container generated from `nvcr.io/nvidia/tensorflow:21.03-tf2-py3`.  
+This code has been developed with Docker container created from `nvcr.io/nvidia/tensorflow:21.03-tf2-py3`.  
 See `requirements.txt` for additional dependencies and version requirements.
 ```
 pip install -r requirements.txt
