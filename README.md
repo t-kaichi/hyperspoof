@@ -1,5 +1,5 @@
 # Hyperspoof
-The official implementation of [`A Hyperspectral Approach for Unsupervised Spoof Detection with Intra-sample Distribution`](https://ieeexplore.ieee.org/document/9506625).  
+The official implementation of [`A Hyperspectral Approach for Unsupervised Spoof Detection with Intra-sample Distribution`](https://ieeexplore.ieee.org/document/9506625) (ICIP2021).  
 The hyperspectral spoofing dataset (HSSD) is available here. <- coming soon
 
 ## Dependencies
