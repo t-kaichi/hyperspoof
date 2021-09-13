@@ -1,6 +1,6 @@
 # Hyperspoof
 The official implementation of [`A Hyperspectral Approach for Unsupervised Spoof Detection with Intra-sample Distribution`](https://ieeexplore.ieee.org/document/9506625) (ICIP2021).  
-The hyperspectral spoofing dataset (HSSD) is available [here](https://drive.google.com/drive/folders/1OBQsfNAhdBHqk0o1MRdqeU6fDeqEOV-7?usp=sharing).
+The hyperspectral spoofing dataset (HSSD) is available [here](https://drive.google.com/drive/folders/1oXKob63Rm5mHo2phx5AtIAc27_aXm-Lb?usp=sharing).
 Please read carefully the Data License before you download the HSSD.
 
 ## Dependencies
@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 
 ## Training
-Download HSSD from [link](https://drive.google.com/drive/folders/1OBQsfNAhdBHqk0o1MRdqeU6fDeqEOV-7?usp=sharing).  
+Download HSSD from [link](https://drive.google.com/drive/folders/1oXKob63Rm5mHo2phx5AtIAc27_aXm-Lb?usp=sharing).  
 Afterwards, set the --data_path argument to the corresponding extracted HSSD path.
 
 Train single-pixel classifier.
