@@ -15,6 +15,7 @@ pip install -r requirements.txt
 
 ## Training
 Download HSSD from [link](https://drive.google.com/drive/folders/1OBQsfNAhdBHqk0o1MRdqeU6fDeqEOV-7?usp=sharing).
+
 Afterwards, set the --data_path argument to the corresponding extracted HSSD path.
 
 Train single-pixel classifier.
